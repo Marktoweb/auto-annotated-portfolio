@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: 11 Steps to Becoming a Successful YouTuber
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
