@@ -5,8 +5,8 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  1. **Find Your Niche**: Choose a topic you're passionate about.2. **Plan
-  Content**: Outline video ideas and set a posting schedule.3. **Create
+  1. **Find Your Niche**: Choose a topic you're passionate about.       2.
+  **Plan Content**: Outline video ideas and set a posting schedule.3. **Create
   High-Quality Videos**: Invest in good equipment and editing software.4.
   **Optimize Titles & Thumbnails**: Catchy titles and appealing thumbnails
   attract viewers.5. **SEO for Videos**: Use relevant keywords in descriptions
@@ -15,7 +15,7 @@ description: >-
   **Promote on Social Media**: Share your videos across platforms.9.
   **Collaborate with Others**: Partner with fellow YouTubers.10. **Monetize**:
   Explore revenue options like ads and sponsorships.11. **Analyze & Improve**:
-  Use analytics to refine your strategy.
+  Use analytics to refine your strategy.            
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
