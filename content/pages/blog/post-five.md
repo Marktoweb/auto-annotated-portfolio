@@ -4,7 +4,7 @@ title: AI are so hot right now
 colors: colors-a
 date: '2024-08-22'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: AI are so hot right now
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image5.jpg
