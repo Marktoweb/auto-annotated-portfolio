@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'How to Become a Prompt Engineer: Your Path to AI Mastery!'
 colors: colors-a
-date: '2024-08-21'
+date: '2024-08-22'
 client: Awesome client
 description: >-
   Prompt engineering is a vital skill in the AI field, focusing on crafting and
