@@ -5,17 +5,13 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  1. **Find Your Niche**: Choose a topic you're passionate about.       2.
-  **Plan Content**: Outline video ideas and set a posting schedule.3. **Create
-  High-Quality Videos**: Invest in good equipment and editing software.4.
-  **Optimize Titles & Thumbnails**: Catchy titles and appealing thumbnails
-  attract viewers.5. **SEO for Videos**: Use relevant keywords in descriptions
-  and tags.6. **Engage with Your Audience**: Respond to comments and build a
-  community.7. **Consistency**: Post regularly to maintain viewer interest.8.
-  **Promote on Social Media**: Share your videos across platforms.9.
-  **Collaborate with Others**: Partner with fellow YouTubers.10. **Monetize**:
-  Explore revenue options like ads and sponsorships.11. **Analyze & Improve**:
-  Use analytics to refine your strategy.            
+  You can promote your affiliate links for free on various platforms. Start by
+  sharing them on social media networks like Facebook, Instagram, Twitter, and
+  LinkedIn. Engage in relevant online communities such as Reddit, Quora, and
+  niche forums, where you can share your links in response to questions or
+  discussions. Additionally, consider starting a blog or YouTube channel to
+  create content around your affiliate products. Email marketing is another
+  powerful tool if you already have a subscriber list.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
