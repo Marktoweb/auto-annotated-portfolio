@@ -107,7 +107,7 @@ bottomSections:
 featuredImage:
   type: ImageBlock
   url: /images/download (9).jpeg
-  altText: altText of the image
+  altText: 'Mastering HTML and CSS: A Comprehensive Guide for Beginners'
   caption: Caption of the image
   elementId: ''
 ---
