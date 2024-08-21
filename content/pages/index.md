@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: 'Understanding the Differences: Digital Marketing vs. Inbound Marketing'
     subtitle: >-
       Digital marketing and inbound marketing are easily confused, and for good
       reason. Digital marketing uses many of the same tools as inbound
