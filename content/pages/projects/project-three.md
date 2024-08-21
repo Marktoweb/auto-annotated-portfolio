@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 11 Steps to Becoming a Successful YouTuber
+title: Where can I promote my affiliate links for free?
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
