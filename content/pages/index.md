@@ -58,7 +58,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/download.png
-      altText: altText of the image
+      altText: Digital Marketing VS inbound marketing
       caption: Caption of the image
       elementId: ''
   - colors: colors-f
