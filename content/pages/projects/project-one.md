@@ -13,7 +13,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
-  altText: Project thumbnail image
+  altText: How to Become a Digital Marketing Specialist?
 media:
   type: ImageBlock
   url: /images/20220815.jpg
