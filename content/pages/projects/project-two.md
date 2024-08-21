@@ -14,7 +14,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Gemini_Generated_Image_fbel1afbel1afbel.jpeg
-  altText: Project thumbnail image
+  altText: 'How to Become a Prompt Engineer: Your Path to AI Mastery!'
 media:
   type: ImageBlock
   url: /images/Gemini_Generated_Image_fbel1afbel1afbel.jpeg
