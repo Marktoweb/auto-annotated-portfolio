@@ -35,7 +35,7 @@
             {
                 "type": "Social",
                 "label": "Facebook",
-                "altText": "",
+                "altText": "Facebook",
                 "url": "https://www.facebook.com/raghib.faridi/",
                 "icon": "facebook",
                 "elementId": ""
