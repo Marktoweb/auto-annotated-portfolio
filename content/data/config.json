@@ -42,7 +42,7 @@
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
+                "altText": "Linkedin",
                 "label": "Linkedin",
                 "url": "https://github.com/netlify-templates",
                 "icon": "github"
