@@ -4,7 +4,7 @@ title: "How I started a startup \U0001F680"
 colors: colors-a
 date: '2024-08-22'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: 'How I started a startup '
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
