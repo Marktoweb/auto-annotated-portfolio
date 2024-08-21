@@ -15,7 +15,7 @@ excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/download (5).png
-  altText: Post thumbnail image
+  altText: The Ultimate Guide to Digital Marketing Strategies and Best Practices
 media:
   url: /images/post-4.png
   altText: altText of the image
