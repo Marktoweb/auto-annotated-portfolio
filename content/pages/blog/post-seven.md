@@ -4,7 +4,7 @@ title: Habits of highly productive web developers ⌨️
 colors: colors-a
 date: '2024-08-22'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: Habits of highly productive web developers ⌨️
 featuredImage:
   type: ImageBlock
   url: /images/download (2).jpeg
