@@ -17,7 +17,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Gemini_Generated_Image_fbel1afbel1afbel.jpeg
   altText: Project image
 ---
 
