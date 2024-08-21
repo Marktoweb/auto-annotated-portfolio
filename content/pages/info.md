@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey, I'm Raghib Faridi, is a talented developer based in Bangalore who
+      ## Hey, I'm Raghib Faridi, is a talented developer based in Bangalore who
       specializes in digital marketing. He has developed a digital marketing
       blog website hosted on Netlify and is recognized as one of the best in his
       field.
