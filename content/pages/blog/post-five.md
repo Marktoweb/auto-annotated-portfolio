@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: AI are so hot right now
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image5.jpg
+  url: /images/download (7).jpeg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
