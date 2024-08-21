@@ -48,7 +48,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/download.png
+      url: /images/6458e96b6344841e02986ea9_digital_mkt.jpeg
       altText: Digital Marketing VS inbound marketing
       caption: ''
       elementId: ''
