@@ -8,7 +8,7 @@ excerpt: "How to Structure and Organize a Next.js Project \U0001F5C2️"
 featuredImage:
   type: ImageBlock
   url: /images/download (1).jpeg
-  altText: Post thumbnail image
+  altText: "How to Structure and Organize a Next.js Project \U0001F5C2️"
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
