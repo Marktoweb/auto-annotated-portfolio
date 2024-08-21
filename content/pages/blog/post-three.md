@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: ''
+title: 'Mastering HTML and CSS: A Comprehensive Guide for Beginners'
 colors: colors-b
 date: '2024-01-01'
 author: content/data/team/doris-soto.json
