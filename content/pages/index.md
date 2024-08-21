@@ -17,9 +17,19 @@ sections:
       I’m a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Digital marketing and inbound marketing are easily confused, and for good
+      reason. Digital marketing uses many of the same tools as inbound
+      marketing—email and online content, to name a few. Both exist to capture
+      the attention of prospects through the buyer’s journey and turn them into
+      customers. But the 2 approaches take different views of the relationship
+      between the tool and the goal.
+
+
+      Digital marketing considers how individual tools or digital channels can
+      convert prospects. A brand's digital marketing strategy may use multiple
+      platforms or focus all of its efforts on 1 platform. For example, a
+      company may primarily create content for social media platforms and email
+      marketing campaigns while ignoring other digital marketing avenues.
     styles:
       self:
         height: auto
@@ -84,7 +94,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
