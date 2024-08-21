@@ -13,7 +13,7 @@
     "fontBody": "fontSecondary",
     "h1": {
         "size": "xs",
-        "weight": "medium",
+        "weight": "normal",
         "decoration": "none",
         "case": "uppercase",
         "letterSpacing": "normal"
