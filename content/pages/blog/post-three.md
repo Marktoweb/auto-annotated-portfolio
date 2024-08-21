@@ -4,7 +4,7 @@ title: 'Mastering HTML and CSS: A Comprehensive Guide for Beginners'
 colors: colors-b
 date: '2024-08-22'
 author: content/data/team/doris-soto.json
-excerpt: ''
+excerpt: 'Mastering HTML and CSS: A Comprehensive Guide for Beginners'
 backgroundImage:
   type: BackgroundImage
   url: /images/gallery-2.jpg
