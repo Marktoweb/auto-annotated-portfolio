@@ -17,7 +17,7 @@ featuredImage:
   url: /images/download (5).png
   altText: The Ultimate Guide to Digital Marketing Strategies and Best Practices
 media:
-  url: /images/post-4.png
+  url: /images/download (5).png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
