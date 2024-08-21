@@ -104,6 +104,12 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are fundamental technologies for creating and styling web pages. Understanding how to use HTML and CSS effectively can greatly enhance your web development skills. Here’s an in-depth look at HTML and CSS, and how they work together to build and style web content.
 
