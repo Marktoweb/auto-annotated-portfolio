@@ -69,7 +69,7 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/download (1).png
+        url: /images/download (2).png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
