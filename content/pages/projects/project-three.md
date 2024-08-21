@@ -12,7 +12,7 @@ description: >-
   in relevant online groups, and engaging in niche-specific discussion boards.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/images.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
