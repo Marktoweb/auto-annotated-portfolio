@@ -15,19 +15,10 @@ sections:
     backgroundSize: full
     title: Mastering the Digital Landscape
     subtitle: >-
-      Digital marketing and inbound marketing are easily confused, and for good
-      reason. Digital marketing uses many of the same tools as inbound
-      marketing—email and online content, to name a few. Both exist to capture
-      the attention of prospects through the buyer’s journey and turn them into
-      customers. But the 2 approaches take different views of the relationship
-      between the tool and the goal.
-
-
-      Digital marketing considers how individual tools or digital channels can
-      convert prospects. A brand's digital marketing strategy may use multiple
-      platforms or focus all of its efforts on 1 platform. For example, a
-      company may primarily create content for social media platforms and email
-      marketing campaigns while ignoring other digital marketing avenues.
+      Unlock the potential of your brand with cutting-edge digital marketing
+      strategies. From social media to email campaigns, we help you connect with
+      your audience and turn prospects into loyal customers. Discover the power
+      of digital marketing today!
     styles:
       self:
         height: auto
