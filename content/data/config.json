@@ -39,13 +39,6 @@
                 "url": "https://www.facebook.com/raghib.faridi/",
                 "icon": "facebook",
                 "elementId": ""
-            },
-            {
-                "type": "Social",
-                "altText": "Linkedin",
-                "label": "Linkedin",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
             }
         ],
         "styles": {
