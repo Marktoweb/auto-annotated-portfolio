@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: "How to Structure and Organize a Next.js Project \U0001F5C2️"
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/download (1).jpeg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
