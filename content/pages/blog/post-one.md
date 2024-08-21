@@ -8,7 +8,7 @@ excerpt: 'How I started a startup '
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
-  altText: Post thumbnail image
+  altText: 'How I started a startup '
 media:
   url: /images/post-2.jpg
   altText: altText of the image
