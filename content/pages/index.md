@@ -11,15 +11,14 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Mastering the Digital Landscape
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Unlock the potential of your brand with cutting-edge digital marketing
+      strategies. From social media to email campaigns, we help you connect with
+      your audience and turn prospects into loyal customers. Discover the power
+      of digital marketing today!
     styles:
       self:
         height: auto
@@ -47,6 +46,12 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    media:
+      type: ImageBlock
+      url: /images/6458e96b6344841e02986ea9_digital_mkt.jpeg
+      altText: Digital Marketing VS inbound marketing
+      caption: ''
+      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -84,7 +89,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
