@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: 'How I started a startup '
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
+  url: /images/download (8).jpeg
   altText: 'How I started a startup '
 media:
   url: /images/post-2.jpg
