@@ -12,7 +12,7 @@ description: >-
   and adjust strategies based on data insights.
 featuredImage:
   type: ImageBlock
-  url: /images/6458e96b6344841e02986ea9_digital_mkt.jpeg
+  url: /images/download.jpeg
   altText: How to Become a Digital Marketing Specialist?
 media:
   type: ImageBlock
