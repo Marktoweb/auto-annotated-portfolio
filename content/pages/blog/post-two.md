@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: The Great Unbundling
+title: The Ultimate Guide to Digital Marketing Strategies and Best Practices
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
