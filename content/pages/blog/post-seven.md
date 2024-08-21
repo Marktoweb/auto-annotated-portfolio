@@ -8,7 +8,7 @@ excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/download (2).jpeg
-  altText: Post thumbnail image
+  altText: 'Habits of highly productive web developers '
 backgroundImage:
   type: BackgroundImage
   url: /images/gallery-3.jpg
