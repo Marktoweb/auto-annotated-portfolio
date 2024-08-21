@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: 'Sharing my wisdom with the world '
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image4.jpg
+  url: /images/download (3).jpeg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
