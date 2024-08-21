@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'How to Become a Digital Marketing Specialist? '
 colors: colors-a
-date: '2021-10-15'
+date: '2024-08-22'
 client: Awesome client
 description: >-
   To become a Digital Marketing Specialist, start by gaining knowledge in SEO,
