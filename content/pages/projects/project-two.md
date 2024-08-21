@@ -13,7 +13,7 @@ description: >-
   quality.
 featuredImage:
   type: ImageBlock
-  url: /images/65b77b4c4401f4eb13b75ebc_prompt-course-1.webp
+  url: /images/Gemini_Generated_Image_fbel1afbel1afbel.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
