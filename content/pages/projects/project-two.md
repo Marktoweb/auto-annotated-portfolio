@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'How to Become a Prompt Engineer: Your Path to AI Mastery!'
 colors: colors-a
-date: '2024-08-22'
+date: '2024-08-21'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
