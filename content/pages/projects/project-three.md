@@ -16,7 +16,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/images.jpeg
   altText: Where can I promote my affiliate links for free?
 ---
 
