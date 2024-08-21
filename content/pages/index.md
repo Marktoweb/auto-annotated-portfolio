@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: 'Understanding the Differences: Digital Marketing vs. Inbound Marketing'
+    title: Mastering the Digital Landscape
     subtitle: >-
       Digital marketing and inbound marketing are easily confused, and for good
       reason. Digital marketing uses many of the same tools as inbound
