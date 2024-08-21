@@ -81,7 +81,7 @@ sections:
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/download (2).png
+        url: /images/download (1).png
         altText: Logo five
         caption: Logo five
     spacing: 3
