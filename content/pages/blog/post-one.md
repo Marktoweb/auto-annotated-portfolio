@@ -10,7 +10,7 @@ featuredImage:
   url: /images/download (8).jpeg
   altText: 'How I started a startup '
 media:
-  url: /images/post-2.jpg
+  url: /images/download (8).jpeg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
