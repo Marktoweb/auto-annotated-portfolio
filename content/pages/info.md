@@ -241,7 +241,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [faridi.raghib@gmail.com](faridi.raghib@gmail.com)
+      faridi.raghib\@gmail.com
   - type: DividerSection
     styles:
       self:
