@@ -73,7 +73,7 @@ sections:
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/download (3).png
+        url: /images/brandmania logo.png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
